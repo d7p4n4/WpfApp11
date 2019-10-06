@@ -10,6 +10,6 @@
         <StackPanel Background="#FFF32020" Margin="5">
             <TextBox HorizontalAlignment="Center" Height="40" VerticalAlignment="Center" MaxWidth="400" MaxHeight="50" Width="250" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" RenderTransformOrigin="0.508,0.609" Margin="0,205,0,-1" Background="#FF0B0606" Foreground="#FFF7F5F5" UndoLimit="130" FontSize="22" />
         </StackPanel>
-        <Label Content="Please inert your name!" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50" FontSize="24" FontWeight="Bold" />
+        <Label Content="Please insert your name!" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50" FontSize="24" FontWeight="Bold" IsEnabled="False" Background="{x:Null}" Foreground="Black" />
     </Grid>
 </Window>
